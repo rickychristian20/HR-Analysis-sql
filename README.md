@@ -6,7 +6,14 @@ HR Analytics project analyzing employee attrition, workforce demographics, job r
 
 [View Dataset](./dataset/HR-Analytics.csv)
 
-### 🖼️ Dashboard Images
+
+### 🗄️ SQL Analysis
+1. Data Cleaning
+  [View sql](./sql/data-cleaning-HR.sql)
+2. Exploratory Data Analysis
+  [View sql](./sql/EDA-HR.sql)
+
+#### 🖼️ Dashboard Images
 
 1. Duplicte
   [View Images](./image/kpi-hr.png)
@@ -28,6 +35,6 @@ HR Analytics project analyzing employee attrition, workforce demographics, job r
    [View Images](./image/avg-years.png)
 
    
-### 📊 Dashboard
+##### 📊 Dashboard
   
    [View Dashboard](./dashboard/dashboard-hr.png)
