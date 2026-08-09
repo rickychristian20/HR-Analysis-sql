@@ -10,38 +10,38 @@ HR Analytics project analyzing employee demographics, job roles, overtime, and e
 
 ## 📂 Dataset
 
-[View Dataset](./dataset/HR-Analytics.csv)
+![View Dataset](./dataset/HR-Analytics.csv)
 
 
 ## 🗄️ SQL Analysis
 1. Data Cleaning
-  [View sql](./sql/data-cleaning-HR.sql)
+  ![View sql](./sql/data-cleaning-HR.sql)
 2. Exploratory Data Analysis
-  [View sql](./sql/EDA-HR.sql)
+  ![View sql](./sql/EDA-HR.sql)
 
 ## 🖼️ sql Images
 1. Duplicte
-  [View Images](./image/kpi-hr.png)
+  ![View Images](./image/duplicate.png)
 
 2. KPI
-  [View Images](./image/kpi-hr.png)
+  ![View Images](./image/kpi-hr.png)
 
 3. Employee Role
-   [View Images](./image/employee-role.png)
+   ![View Images](./image/employee-role.png)
 
 4. Group Age
-   [View Images](./image/group-age-1.png)
-   [View Images](./image/group-age-2.png)
+   ![View Images](./image/group-age-1.png)
+   ![View Images](./image/group-age-2.png)
 
 5. Over Time
-   [View Images](./image/over-time.png)
+   ![View Images](./image/over-time.png)
 
 6. Average Years
-   [View Images](./image/avg-years.png)
+   ![View Images](./image/avg-years.png)
 
    
 ## 🖼️ Dashboard Images
-  [View Dashboard](./dashboard/dashboard-hr.png)
+  ![View Dashboard](./dashboard/dashboard-hr.png)
 
   
 ## 🔍 Key Insights
