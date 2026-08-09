@@ -1,6 +1,11 @@
 # HR-Analysis-sql
 HR Analytics project analyzing employee attrition, workforce demographics, job roles, income, and employee performance using SQL and Tableau.
 
+# 🎯 Business Questions
+1. What is the dominant age group for each job role?
+2. Which department has the highest number of employees working overtime?
+3. Which job roles have the longest average tenure among active employees?
+
 
 ## 📂 Dataset
 
@@ -13,8 +18,7 @@ HR Analytics project analyzing employee attrition, workforce demographics, job r
 2. Exploratory Data Analysis
   [View sql](./sql/EDA-HR.sql)
 
-#### 🖼️ Dashboard Images
-
+#### 🖼️ sql Images
 1. Duplicte
   [View Images](./image/kpi-hr.png)
 
@@ -35,6 +39,7 @@ HR Analytics project analyzing employee attrition, workforce demographics, job r
    [View Images](./image/avg-years.png)
 
    
-##### 📊 Dashboard
+##### 🖼️ Dashboard Images
+  [View Dashboard](./dashboard/dashboard-hr.png)
   
    [View Dashboard](./dashboard/dashboard-hr.png)
