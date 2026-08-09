@@ -1,5 +1,6 @@
 # HR-Analysis-sql
-HR Analytics project analyzing employee attrition, workforce demographics, job roles, income, and employee performance using SQL and Tableau.
+
+HR Analytics project analyzing employee demographics, job roles, overtime, and employee tenure using SQL and Tableau.
 
 # 🎯 Business Questions
 1. What is the dominant age group for each job role?
