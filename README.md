@@ -41,5 +41,21 @@ HR Analytics project analyzing employee attrition, workforce demographics, job r
    
 ##### 🖼️ Dashboard Images
   [View Dashboard](./dashboard/dashboard-hr.png)
+
   
-   [View Dashboard](./dashboard/dashboard-hr.png)
+## 🔍 Key Insights
+
+1. The 26–35 age group is the dominant age group across most job roles, indicating that the workforce is largely composed of employees in the early to mid-career stage.
+2. The Sales department has the highest number of employees working overtime, indicating that employees in Sales may face higher workload or working-hour demands compared with other   departments.
+3. Research Director and Manager roles have among the longest average tenure among active employees, indicating relatively strong employee retention and longer experience within these positions.
+   
+## 💡 Business Recommendations
+1. Develop career development programs for employees aged 26–35, such as training, mentoring, and clear career progression opportunities to retain employees during their early-to-mid career stage.
+2. Evaluate workload and overtime in the Sales department by reviewing sales targets, staffing levels, workload distribution, and overtime policies to reduce excessive workload and potential burnout.
+3. Leverage experienced employees in long-tenure roles as mentors, allowing them to transfer knowledge and experience to newer employees while supporting succession planning.
+
+
+
+Gmail        : rickychristian78@gmail.com 
+Linked in    : https://www.linkedin.com/in/ricky-simatupang/
+Tableau      : https://public.tableau.com/views/Book1_17861307379550/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
