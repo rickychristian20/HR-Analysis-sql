@@ -4,4 +4,4 @@ HR Analytics project analyzing employee attrition, workforce demographics, job r
 
 ## 📂 Dataset
 
-[View Dataset](dataset/dataset-HR-Analytics.csv)
+[View Dataset](./dataset/HR-Analytics.csv)
