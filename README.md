@@ -25,4 +25,9 @@ HR Analytics project analyzing employee attrition, workforce demographics, job r
    [View Images](./image/over-time.png)
 
 6. Average Years
-    [View Images](./image/avg-years.png)  
+   [View Images](./image/avg-years.png)
+
+   
+### 📊 Dashboard
+  
+   [View Dashboard](./dashboard/dashboard-hr.png)
